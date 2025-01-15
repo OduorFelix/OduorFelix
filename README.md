@@ -4,10 +4,10 @@
 
 ## I'm an Application's Engineer!!
 
-- 🔭 I'm an excellent MERN stack Engineer!
+- 🔭 I'm an excellent MERN stack, Angular Engineer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software engineers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love MCU 🤣
 
 
